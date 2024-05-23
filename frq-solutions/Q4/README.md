@@ -11,4 +11,4 @@
  -Dealing with methods from other classes.
 
 ## What I learned by doing this question...
- -A class variable needed to be created inside the method/loop.
+ -By doing this question,I imporve my logic of dealing 2D array questions.
