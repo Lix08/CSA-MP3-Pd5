@@ -14,9 +14,9 @@
 
 
 ## Prior expereiences that helped...
-- i have done similar questions in the class but i forgotte them
+ - I have done similar questions in the class but i forgotte them
 
 
 
 ## What I leraned by doing this question...
--i leraned how to team score after game 
+ - I leraned how to team score after game 
