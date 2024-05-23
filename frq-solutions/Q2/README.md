@@ -7,13 +7,16 @@
 - Creating an output statement to show the current standing of the game
 
 ## Stryggles with this question...
-
+- I am not sure how many constructs are needed
+- how to swich team
+- print out the active team
 
 
 
 ## Prior expereiences that helped...
-
+- i have done similar questions in the class but i forgotte them
 
 
 
 ## What I leraned by doing this question...
+-i leraned how to team score after game 
